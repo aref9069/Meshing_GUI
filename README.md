@@ -1,2 +1,2 @@
 # Meshing_GUI
-While working with ABAQUS for FEA applications, meshing is an important step of the procedure and resulting in a good &amp; reasonable outputs. In this regard, a GUI has been developed to assist and illustrate this objective better. 
+While working with ABAQUS for Finite Element Analysis (FEA) applications, mesh quality plays a critical role in obtaining accurate and reliable results. To facilitate this process, a Python-based Graphical User Interface (GUI) has been developed. This tool assists users in visualizing and evaluating mesh refinement results, making it easier to interpret and optimize meshing strategies for better FEA outcomes.
