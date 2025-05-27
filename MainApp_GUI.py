@@ -1,3 +1,9 @@
+""""
+Abaqus script for displaying the mesh refinement after getting all the results
+
+Aref Aasi, May 2025
+
+"""
 from Header_GUI import Header
 from MainScreen_GUI import MainScreen
 from CommandBar_GUI import CommandBar
