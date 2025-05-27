@@ -1,2 +1,2 @@
-# Meshing_GUI
+# GUI for ABAQUS Mesh Refinement 
 While working with ABAQUS for Finite Element Analysis (FEA) applications, mesh quality plays a critical role in obtaining accurate and reliable results. To facilitate this process, a Python-based Graphical User Interface (GUI) has been developed. This tool assists users in visualizing and evaluating mesh refinement results, making it easier to interpret and optimize meshing strategies for better FEA outcomes.
