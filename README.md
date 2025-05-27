@@ -4,13 +4,13 @@ While working with ABAQUS for Finite Element Analysis (FEA) applications, mesh q
 
 This tool allows users to visualize and analyze mesh refinement statistics such as node count, time increment (stableDT), and scale factors.
 # Features
-# Header GUI (Header_GUI.py): Displays project title or status bar.
+Header GUI (Header_GUI.py): Displays project title or status bar.
 
-# Command Bar (CommandBar_GUI.py): Provides user controls for interactions like loading data or triggering analysis.
+Command Bar (CommandBar_GUI.py): Provides user controls for interactions like loading data or triggering analysis.
 
-# Main Screen (MainScreen_GUI.py): Visualizes mesh refinement results with plots (e.g., Scale Factor vs. Node Count).
+Main Screen (MainScreen_GUI.py): Visualizes mesh refinement results with plots (e.g., Scale Factor vs. Node Count).
 
-# Main Application (MainApp_GUI.py): Integrates all components and launches the complete GUI.
+Main Application (MainApp_GUI.py): Integrates all components and launches the complete GUI.
 
 # Requirements
 numpy
