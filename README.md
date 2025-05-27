@@ -14,7 +14,9 @@ Main Application (MainApp_GUI.py): Integrates all components and launches the co
 
 # Requirements
 numpy
+
 matplotlib
+
 tkinter (typically included with Python)
 sys
 os
