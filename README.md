@@ -18,8 +18,11 @@ numpy
 matplotlib
 
 tkinter (typically included with Python)
+
 sys
+
 os
+
 PIL
 
 ABAQUS-generated CSV data (meshRefinementStats.csv)
