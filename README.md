@@ -23,6 +23,6 @@ sys
 
 os
 
-PIL
+Pillow (PIL)
 
 ABAQUS-generated CSV data (meshRefinementStats.csv)
